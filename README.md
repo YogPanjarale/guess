@@ -1,5 +1,3 @@
-# Node.js TypeScript Starter
+# Guess
 
-```sh
-npx degit yogpanjarale/typescript-node-starter app-name
-```
+number guessing game
