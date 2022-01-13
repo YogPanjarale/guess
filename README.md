@@ -1,3 +1,1 @@
-# Guess
-
-number guessing game
+# fibonachi numbers
